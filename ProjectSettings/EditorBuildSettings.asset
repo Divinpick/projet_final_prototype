@@ -11,5 +11,23 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/Scenes/sc\xE8ne_ville.unity"
     guid: 266fc634feaaf3d4989f013d5b7c7608
+  - enabled: 1
+    path: "Assets/Scenes/sc\xE8ne_for\xEAt.unity"
+    guid: 0c9bb1476236509449f472fed2d46819
+  - enabled: 1
+    path: "Assets/Scenes/sc\xE8ne_cimetiere.unity"
+    guid: 55e80b7298445564a9bdba5b13600947
+  - enabled: 1
+    path: "Assets/Scenes/sc\xE8ne_d\xE9part 1.unity"
+    guid: d3515e16000774347a7753f8c7c74592
+  - enabled: 1
+    path: "Assets/Scenes/sc\xE8ne_d\xE9part 2.unity"
+    guid: 045679139857e5b4a9f6c5c03c0236c4
+  - enabled: 1
+    path: "Assets/Scenes/sc\xE8ne_d\xE9part 3.unity"
+    guid: 4f8a766b0c2772e49b7f9efaa913d462
+  - enabled: 1
+    path: "Assets/Scenes/sc\xE8ne_d\xE9part 4.unity"
+    guid: c400aeca2f352f745a321967039437fc
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
