@@ -48,10 +48,19 @@ EditorBuildSettings:
     path: "Assets/Scenes/sc\xE8ne_finale.unity"
     guid: eb62e760ba12ff647ae56cb4cb68fc45
   - enabled: 1
+    path: "Assets/Scenes/sc\xE8ne_game_over.unity"
+    guid: a0ef5cf9a16b13c48b750b919b09e131
+  - enabled: 1
+    path: "Assets/Scenes/sc\xE8ne_win.unity"
+    guid: f86db7722c1aeec4cbb46f392d79552b
+  - enabled: 1
+    path: "Assets/Scenes/sc\xE8ne_cimetiere 1.unity"
+    guid: b2f22b668ae16af46874389dae980581
+  - enabled: 1
     path: "Assets/Scenes/sc\xE8ne_for\xEAt 5.unity"
     guid: dd997f00064945f4d919d6e0a173ca16
   - enabled: 1
-    path: "Assets/Scenes/sc\xE8ne_menu_fin.unity"
+    path: "Assets/Scenes/sc\xE8ne_menu.unity"
     guid: 69bb4646f3c3ea547b91597ea8e829f1
   - enabled: 1
     path: "Assets/Scenes/sc\xE8ne_dongeon.unity"
