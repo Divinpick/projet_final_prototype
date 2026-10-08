@@ -45,8 +45,14 @@ EditorBuildSettings:
     path: "Assets/Scenes/sc\xE8ne_for\xEAt 4.unity"
     guid: 65b2310a8ef2253408ad3a373d19aaac
   - enabled: 1
+    path: "Assets/Scenes/sc\xE8ne_finale.unity"
+    guid: eb62e760ba12ff647ae56cb4cb68fc45
+  - enabled: 1
     path: "Assets/Scenes/sc\xE8ne_for\xEAt 5.unity"
     guid: dd997f00064945f4d919d6e0a173ca16
+  - enabled: 1
+    path: "Assets/Scenes/sc\xE8ne_menu_fin.unity"
+    guid: 69bb4646f3c3ea547b91597ea8e829f1
   - enabled: 1
     path: "Assets/Scenes/sc\xE8ne_dongeon.unity"
     guid: 7554d13970a58b847bb159422acc8609
